@@ -1,0 +1,7 @@
+# Em assets/ só vai para o repositório o que o site usa.
+# Referências, fotos originais e imagens antigas ficam só na máquina.
+assets/*
+!assets/favicon.svg
+!assets/mulher-com-celular-2.png
+!assets/projects/
+assets/projects/acessos.png
